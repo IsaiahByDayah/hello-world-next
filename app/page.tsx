@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>Hello, World! - Coolify</h1>;
+  return <h1>Hello, World! - Ducky via Coolify</h1>;
 }
